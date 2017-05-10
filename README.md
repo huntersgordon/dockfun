@@ -1,6 +1,6 @@
 # dockfun
 youtube demonstration <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorry for the thumbnail
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorry for the thumbnail <br>
 [![dockfun](https://img.youtube.com/vi/bS9m1kPyyvo/0.jpg)](https://www.youtube.com/watch?v=bS9m1kPyyvo) <br>
 download dockfun app on calhat.com/dockfun.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.run dockfun.<br>
